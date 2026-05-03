@@ -25,7 +25,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <!-- Danh sách các icon công nghệ tự động tạo từ skillicons.dev -->
-    <img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,arch,kali,git,github" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,arch,kali,git,github,latex" alt="My Skills" />
   </a>
 </p>
 
