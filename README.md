@@ -30,3 +30,6 @@
 </p>
 
 ---
+<div align="center">
+  <img src="https://www.icegif.com/wp-content/uploads/2026/03/ryomen-sukuna-1-7.gif" width="400" alt="GIF"/>
+</div>
